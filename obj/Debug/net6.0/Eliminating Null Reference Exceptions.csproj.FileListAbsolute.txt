@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\bin\Debug\net6.0\Eliminating Null Reference Exceptions.exe
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\bin\Debug\net6.0\Eliminating Null Reference Exceptions.deps.json
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\bin\Debug\net6.0\Eliminating Null Reference Exceptions.runtimeconfig.json
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\bin\Debug\net6.0\Eliminating Null Reference Exceptions.dll
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\bin\Debug\net6.0\Eliminating Null Reference Exceptions.pdb
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\obj\Debug\net6.0\Eliminating Null Reference Exceptions.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\obj\Debug\net6.0\Eliminating Null Reference Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\obj\Debug\net6.0\Eliminating Null Reference Exceptions.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\obj\Debug\net6.0\Eliminating Null Reference Exceptions.AssemblyInfo.cs
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\obj\Debug\net6.0\Eliminating Null Reference Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\obj\Debug\net6.0\Eliminating Null Reference Exceptions.dll
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\obj\Debug\net6.0\refint\Eliminating Null Reference Exceptions.dll
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\obj\Debug\net6.0\Eliminating Null Reference Exceptions.pdb
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\obj\Debug\net6.0\Eliminating Null Reference Exceptions.genruntimeconfig.cache
+C:\Users\user\source\repos\Eliminating Null Reference Exceptions\obj\Debug\net6.0\ref\Eliminating Null Reference Exceptions.dll
