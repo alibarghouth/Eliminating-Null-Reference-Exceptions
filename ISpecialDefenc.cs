@@ -6,8 +6,18 @@ using System.Threading.Tasks;
 
 namespace Eliminating_Null_Reference_Exceptions
 {
-     public interface ISpecialDefenc
+     public abstract class SpecialDefenc
     {
-        int CalculateDamagReduction(int totalDamag);
+        public abstract int CalculateDamagReduction(int totalDamag);
+         
+        public static SpecialDefenc Null { get; }  = new NullDefence();
+
+        private class NullDefence : SpecialDefenc
+        {
+            public override int CalculateDamagReduction(int totalDamag)
+            {
+                return 0;
+            }
+        }
     }
 }

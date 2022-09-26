@@ -8,9 +8,9 @@ namespace Eliminating_Null_Reference_Exceptions
 {
     public class PlayerCharacter
     {
-        private readonly ISpecialDefenc _specialDefenc;
+        private readonly SpecialDefenc _specialDefenc;
 
-        public PlayerCharacter(ISpecialDefenc specialDefenc)
+        public PlayerCharacter(SpecialDefenc specialDefenc)
         {
             _specialDefenc = specialDefenc;
         }
@@ -24,11 +24,9 @@ namespace Eliminating_Null_Reference_Exceptions
         } = 100; 
         public void Hits(int damage)
         {
-            int damageReduction = 0;
-            if (_specialDefenc != null)
-            {
-                damageReduction = _specialDefenc.CalculateDamagReduction(damage);
-            }
+
+             int damageReduction = _specialDefenc.CalculateDamagReduction(damage);
+            
             int totalDamageTaken = damage - damageReduction;
             Health -= totalDamageTaken;
             Console.WriteLine($"{Name}'s reddekdfl from {totalDamageTaken} to {Health}");

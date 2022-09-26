@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Eliminating_Null_Reference_Exceptions
 {
-    public class IronBonesDefence : ISpecialDefenc
+    public class IronBonesDefence : SpecialDefenc
     {
-        public  int CalculateDamagReduction(int totalDamag)
+        public override  int CalculateDamagReduction(int totalDamag)
         {
             return 5;
         }
